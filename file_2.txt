@@ -1,3 +1,4 @@
 this is the first line of file2
+inserting a new line2
 mary had a little lamb
 finally the end of file2
